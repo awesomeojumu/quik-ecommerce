@@ -15,10 +15,10 @@
           </form>
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link text-primary" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link text-primary" href="#"><router-link to="/"> Home </router-link> <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link text-primary" href="#">Store</a>
+              <a class="nav-link text-primary" href="#"><router-link to="/Product"> Product </router-link></a>
             </li>
             <li class="nav-item active">
               <a class="nav-link text-primary" href="#"> Cart </a>
