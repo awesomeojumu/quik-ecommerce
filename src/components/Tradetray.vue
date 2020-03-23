@@ -2,7 +2,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-90 my-4">
                 <img class="card-img-top" 
-                      :src="product.ImageLink" 
+                      :src="product.imageLink" 
                       :alt="product.name" 
                       height="200" 
                 >

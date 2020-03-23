@@ -108,7 +108,7 @@ export default {
                 id : 10,
                 name : "NBA 2k20",
                 price : "7,000",
-                 imageLink : require('../assets/photos/nba2k20.jpg')
+                imageLink : require('../assets/photos/nba2k20.jpg')
               },
               {
                 id : 3,
@@ -148,19 +148,19 @@ export default {
               },
               {
                 id : 9,
-                name : "Microwave",
-                price : "15,000",
-                imageLink : require("@/assets/photos/mwave.jpg")
+                name : "Blue Shirt",
+                price : "5,000",
+                imageLink : require("@/assets/photos/fash/2077_1582657237.jpg")
               },{
                 id : 11,
-                name : "Microwave",
-                price : "15,000",
-                imageLink : require("@/assets/photos/mwave.jpg")
+                name : "Purple short gown",
+                price : "5,000",
+                imageLink : require("@/assets/photos/fash/160716_1568503910.jpg")
               },{
                 id : 12,
-                name : "Microwave",
+                name : "Leather Brogues",
                 price : "15,000",
-                imageLink : require("@/assets/photos/mwave.jpg")
+                imageLink : require("@/assets/photos/fash/Leather-Brogues---Black-7930150_12.jpg")
               },
             ]
         }
